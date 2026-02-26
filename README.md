@@ -1,4 +1,4 @@
-# 🧬 The Precision Blueprint: Mapping Drug Efficacy through Chemical and Biological AI
+# 🧬 Multi-Omics ML: Cancer Drug Response Predictor
 
 **A dual-phase machine learning framework for predicting cancer drug responses and discovering actionable clinical biomarkers.**
 
@@ -12,6 +12,10 @@
 Precision oncology relies on accurately predicting patient-specific responses to diverse anti-cancer therapies. This project proposes a robust, two-phase machine learning framework to predict drug efficacy ($log_2AUC$) while overcoming the "black-box" limitations of traditional ensemble models. 
 
 By integrating **biological transcriptomics** with **chemical topologies**, this pipeline simulates precision medicine for unseen patients and extracts highly interpretable biomarkers for targeted therapies.
+
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="assets/uf9mQh0.gif" width="200">
+</div>
 
 ## 🗄️ Data Sources & Preprocessing
 This project utilizes large-scale pharmacogenomic data:
